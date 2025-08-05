@@ -6,7 +6,7 @@ const DataDeletionPage = (_props: PageProps) => (
   <Layout>
     <h1>User Data Deletion Request</h1>
     <p>
-      If you have used our Facebook app and want your data to be deleted, please email us at
+      If you have used our Facebook app and want your data to be deleted, please email us at 
       <a href="mailto:info@chavorrucos.com">info@chavorrucos.com</a> with the subject line "User Data
       Deletion Request".
     </p>
